@@ -1,0 +1,14 @@
+# Database Connection Credentials
+.env
+*.env
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+
+# IDE and GUI Configurations (DBeaver, VS Code, pgAdmin)
+.vscode/
+.idea/
+.dbeaver/
+*.log
+pgadmin*.storage
