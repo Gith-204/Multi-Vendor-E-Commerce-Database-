@@ -1,0 +1,8 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Explicitly declare SQL files as text and set line endings
+*.sql text eol=lf
+
+# Explicitly mark documentation files
+*.md text eol=lf 
